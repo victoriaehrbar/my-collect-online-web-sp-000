@@ -8,6 +8,5 @@ while counter < collection.length
 collection << yield(collection[counter])
   counter += 1
 end
-
 collect
 end
