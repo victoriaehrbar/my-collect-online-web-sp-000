@@ -5,7 +5,7 @@ binding.pry
 counter = 0
 while counter < collection.length
   counter += 1
-yield 
+yield
 end
 
 collect
