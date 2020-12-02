@@ -5,7 +5,7 @@ binding.pry
 counter = 0
 collect = []
 while counter < collection.length
-  yield collection[counter] 
+  yield (collection[counter]) 
   counter += 1
 end
 
