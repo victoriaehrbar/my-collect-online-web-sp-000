@@ -4,7 +4,7 @@ def my_collect(collection)
 binding.pry
 counter = 0
 while counter < collection.length
-  puts "The current number is less than 20."
+  puts 
   counter += 1
 end
 
